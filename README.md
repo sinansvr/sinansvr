@@ -12,6 +12,10 @@
 <br>
 <h4>About Me</h4>
 <br>
+<ul>
+  <li> I'm creatively curious and a self-learner.</li>
+  <li> I'm creatively curious and a self-learner.</li>
+</ul>
 - I'm creatively curious and a self-learner.
 - I love exploring new technologies and currently learning new skills.
 - I'm currently focusing on **Backend Web Development** and practicing **Frontend Web Development**.
