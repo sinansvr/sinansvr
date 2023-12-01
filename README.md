@@ -1,7 +1,6 @@
 
 # Hey there <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="40px" height="40px">, Welcome to my Github Profile
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Square&weight=800&size=24&pause=1000&color=18F7A4&random=false&width=435&lines=Hi+there!+I+am+Sinan%2C;I'm+fullstack+React+developer%2C;and+MERN-Stack+Developer.)](https://git.io/typing-svg)
-<h1 align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=36&pause=1000&color=1AF78E&random=false&width=435&lines=Hi!+I'm+Sinan%2C;I'm+fullstack+react+developer..)](https://git.io/typing-svg)
   
   <br>
  
