@@ -4,7 +4,7 @@
 <h1 align="center">
   
   <br>
-  Hi, I'm Nguyễn Nhật Huy - aka Lil Huy <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
+ 
 </h1>
 
 <!-- Counter -->
