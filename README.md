@@ -9,9 +9,9 @@
 <h4>  About Me</h4>
 <br>
 <ul>
-  <li> I'm creatively curious and a self-learner.</li>
-  <li> I love exploring new technologies and currently learning new skills</li>
-  <li> I'm currently focusing on Backend Web Development and practicing Frontend Web Development.</li>
-  <li> I’m looking forward to contribute to Fullstack Projects.</li>
-  <li> Ask me anything about React, Javascript, Mongo DB, Express JS, Node JS, Third party CSS libraries.</li>
+<li> I'm creatively curious and a self-learner.</li>
+<li> I love exploring new technologies and currently learning new skills</li>
+<li> I'm currently focusing on Backend Web Development and practicing Frontend Web Development.</li>
+<li> I’m looking forward to contribute to Fullstack Projects.</li>
+<li> Ask me anything about React, Javascript, Mongo DB, Express JS, Node JS, Third party CSS libraries.</li>
 </ul>
