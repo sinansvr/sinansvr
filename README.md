@@ -10,7 +10,7 @@
 
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <br>
-
+<h4 align="center">About Me</h4>
 - I'm creatively curious and a self-learner.
 - I love exploring new technologies and currently learning new skills.
 - I'm currently focusing on **Backend Web Development** and practicing **Frontend Web Development**.
