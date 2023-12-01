@@ -4,7 +4,7 @@
   
 
 
-<img align='right' src="[https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif](https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif)" width="400">
+<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <br>
 <h4>  About Me</h4>
 <br>
