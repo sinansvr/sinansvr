@@ -15,11 +15,15 @@
 <li> I’m looking forward to contribute to Fullstack Projects.</li>
 <li> Ask me anything about React, Javascript, Mongo DB, Express JS, Node JS, Third party CSS libraries.</li>
 </ul>
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sinan-sivri)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svrsinan06@gmail.com)
-  
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
 </div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,firebase,figma,sass,bootstrap,materialui,tailwind,react,redux,ts,vercel,vscode,vite,docker,mongodb,mysql,sqlite,sequelize,nextjs,nodejs,postgres,wordpress" />
+  </a>
+</p>
+
