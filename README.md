@@ -17,7 +17,7 @@
 </ul>
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
